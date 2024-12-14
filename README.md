@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roie Schwaber-Cohen</h1>
 <h3 align="center">Staff Developer Advocate @ pinecone.io</h3>
 
-- 🔭 I’m currently working on [Pinecone.io](pinecone.io)
+- 🔭 I’m currently working on [Galileo](galileo.ai)
 
 - 💬 Ask me about **Vector Search**
 
