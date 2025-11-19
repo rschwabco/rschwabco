@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roie Schwaber-Cohen</h1>
-<h3 align="center">Principal Developer Advocate @ Galileo</h3>
+<h3 align="center">Head of DevRel @ Pinecone</h3>
 
 - 🔭 I’m currently working on [Pinecone](Pinecone.io)
 
